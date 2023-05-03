@@ -21,3 +21,15 @@ Create a Nixos Config for use on my machines that is universial, yet specific to
  | Old Rig      | Desktop   | DIY PC                |               | dust catcher      |         |
  | Old Server   | Desktop   | DIY PC                |               | dust catcher      |         |
  | NAS          | NAS       | Synology Disk Station | ?             | dust catcher      |         |
+
+***
+## Machine Details
+| Machine Name | Motherboard Brand | Mobo Model     | CPU Brand | CPU Model |  GPU Brand   | GPU Model | RAM (GB) |
+| ------------ | ----------------- | -------------- | --------- | --------- | ------------ | --------- | -------- |
+| Surface      | Microsoft         | Surface Book 1 | Intel     | i5-6300U  | Intel/Nvidia |           |   8 GB   |
+| Titan        | Dell              | Latitude XXXX  | Intel     |           | Nvidia       |           |          |
+| Saturn       |                   |                |           |           |              |           |          |
+| Goldenbrain  | Gigabyte          |                | AMD       | Ryzen 7   | AMD          | 6500+     |   32 GB  |
+| Old Rig      | ?                 |                | Intel     | i7-XXXX   | Nvidia       |           |   16 GB  |
+| Old Server   | ?                 | ?              | AMD       | Athlon II | ?            |           |          |
+***
