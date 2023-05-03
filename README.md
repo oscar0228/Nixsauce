@@ -33,3 +33,4 @@ Create a Nixos Config for use on my machines that is universial, yet specific to
 | Old Rig      | ?                 |                | Intel     | i7-XXXX   | Nvidia       |           |   16 GB  |
 | Old Server   | ?                 | ?              | AMD       | Athlon II | ?            |           |          |
 ***
+## Config
